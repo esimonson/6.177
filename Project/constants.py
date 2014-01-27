@@ -31,3 +31,5 @@ FONT_SIZE = 30
 #game
 TIME_MULTIPLIER = 1.0/(FRAMERATE*4)
 LIVES = 3
+
+#this is a comment so we can push to git ;)
